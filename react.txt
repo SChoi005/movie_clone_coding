@@ -1,0 +1,1 @@
+react 실행할때 npm start로 실행 port는 3000
