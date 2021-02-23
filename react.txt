@@ -16,3 +16,20 @@ map함수 이거쓰면 리스트에 있는 모든 변수 차례로 접근하면�
 
 npm i prop-types -> 전달받은 props가 내가 원하는 props인지확인해주는것
 실수 줄이기용 구름에서는 자동으로 컨테이너에 깔려있음
+
+React.Component -> 매번 우리가 component를 만들 때마다 모든것을 다 구현하고 싶지않기때문에 extends함 -> 이방법은 class component를 만드는 방법
+react는 자동적으로 class component의 render method를 실행한다.
+
+동적인 데이터를 다룰 때 state를 사용함 -> class component로 만들어야됨 function component로는 못함 이였는데 react hook이라는 새로운게 나와서 어케어케 되는데 나중에 찾아보자
+
+life cycle method
+
+
+
+페이지가 바뀔때 component가 죽음
+
+constructor함수는 처음에 생성됨
+componentDidMount(), componentDidUpdate(), render()
+
+
+async -> 비동기식 이거붙이면 함수가 될때까지 기다려야된다는뜻
