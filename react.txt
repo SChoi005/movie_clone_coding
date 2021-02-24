@@ -33,3 +33,10 @@ componentDidMount(), componentDidUpdate(), render()
 
 
 async -> 비동기식 이거붙이면 함수가 될때까지 기다려야된다는뜻
+
+hashrouter을 사용하면 서버를 띄웠을 때 http://52.78.185.179:51851/#/ 이렇게 #이붙음 이게 해쉬임
+
+Link를 사용하려면 HashRouter안에서 선언해야됨
+BrowserRouter을 사용하면 #같은게 없이 깔끔함 근데 깃헙에 올리기가 힘듬
+
+route props
