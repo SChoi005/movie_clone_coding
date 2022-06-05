@@ -1,4 +1,6 @@
 # Movie Clone Coding
-> Example of clone coding at <a href="https://nomadcoders.co/react-for-beginners/lobby" target="_blank"><strong>nomadcoders</strong></a>
+> React.js example of clone coding at <a href="https://nomadcoders.co/react-for-beginners/lobby" target="_blank"><strong>nomadcoders</strong></a>
 
-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
+* Rendering movies and descriptions
+
+![image](https://user-images.githubusercontent.com/64727012/172034717-61dffc0b-31e1-437b-a42a-413339677c03.png)
